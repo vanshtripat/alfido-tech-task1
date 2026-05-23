@@ -22,10 +22,7 @@ alfido-tech-task1/
 └── README.md
 ```
 
-> **Large asset (18MB Excel dataset)** is hosted on Google Drive:  
-> 📁 [ecommerce_customer_data_custom_ratios.xlsx – Google Drive](https://drive.google.com/YOUR_LINK_HERE)
 
----
 
 ## Key Findings
 
