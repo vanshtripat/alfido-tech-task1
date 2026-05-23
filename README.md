@@ -63,6 +63,4 @@ jupyter notebook customer_behavior_analysis.ipynb
 
 ---
 
-## Report
-The full executive PDF report is in `reports/customer_behavior_report.pdf`  
-and also available on [Google Drive](https://drive.google.com/YOUR_LINK_HERE).
+
